@@ -1,4 +1,4 @@
-# pytest-fixture-autouse-example
+# Python Testing Frameworks
 This repo contains the sample code for the article - python testing framworks
 
 # Requirements
