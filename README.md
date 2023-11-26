@@ -1,5 +1,5 @@
 # pytest-fixture-autouse-example
-This repo contains the sample code for the article - pytest fixture autouse
+This repo contains the sample code for the article - python testing framworks
 
 # Requirements
 * Python (3.10.6)
